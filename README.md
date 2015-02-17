@@ -1,6 +1,6 @@
 A simple REST web API in different languages.
 
-the `test.sh` does a few simpler curl calls and returns the results. There should be 200, 200, 400, 200 along with the actual output.
+The `test.sh` does a few simple curl calls and returns the results. There should be 200, 200, 400, 200 along with the actual output.
 
 To run the siege test simply call
 

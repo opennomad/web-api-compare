@@ -27,4 +27,5 @@ post '/sort' => sub {
     }
 };
 
+app->log->level('error');
 app->start();
